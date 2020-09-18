@@ -1,0 +1,25 @@
+#conteneur
+{
+	display:flex;
+	justify-content: flex-end
+}
+
+.google
+{
+	display:block;
+	margin: auto;
+}
+
+#conteneur2
+{
+	display:flex;
+	justify-content:center
+}
+
+
+#conteneur3
+{
+	display:flex;
+	flex-wrap:wrap;
+	font-size:small;
+}
